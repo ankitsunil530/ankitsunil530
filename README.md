@@ -8,7 +8,7 @@
 - 🔭 Currently working on: Smart Footwear for Diabetic Foot Ulcers Detection  
 - 🌱 Learning advanced MERN, AI & Competitive Programming  
 - 💬 Ask me about MERN, ML, DSA, or Python  
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sunil-kumar-549595225/) | [Resume](#)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sunil-kumar-549595225/) | [Resume](https://docs.google.com/document/d/12K0DEdrbOKQlR_CPY16090AXu5Z7WstI/edit?usp=sharing&ouid=104633154786754293958&rtpof=true&sd=true)
 
 ---
 
