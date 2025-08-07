@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I'm Sunil Kumar
 
-<!--
-**ankitsunil530/ankitsunil530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE @ IIITDM Jabalpur  
+💻 Full-Stack Developer | MERN Stack | ML Enthusiast  
+🚀 Focused on building real-world applications and solving DSA problems
 
-Here are some ideas to get you started:
+## 💡 About Me
+- 🔭 Currently working on: Smart Footwear for Diabetic Foot Ulcers Detection  
+- 🌱 Learning advanced MERN, AI & Competitive Programming  
+- 💬 Ask me about MERN, ML, DSA, or Python  
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/your-link) | [Resume](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+**Languages**: JavaScript, C++, Python, Java  
+**Frontend**: React.js, Tailwind CSS, HTML/CSS  
+**Backend**: Node.js, Express.js, MongoDB  
+**ML/AI**: TensorFlow, Scikit-learn, Keras, OpenCV  
+**Tools**: Git, Docker, GCP, VS Code, Postman  
+
+---
+
+## 📌 Featured Projects
+
+### 🔒 Static Malware Detection  
+> ML-based malware classification using Random Forest, SVM  
+🔗 [GitHub Repo](https://github.com/ankitsunil530/Static-Malware-Detection-)
+
+---
+
+### ✅ Task Management System  
+> MERN app for managing tasks with JWT Auth, admin dashboard  
+🔗 [GitHub Repo](#) | 🌐 [Live Demo](#)
+
+---
+
+## 📈 GitHub Stats
+
+![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitsunil530&show_icons=true&theme=radical)
+
+---
+
+## 🧠 Competitive Programming
+
+- 💻 [LeetCode](https://leetcode.com/your-profile) | 400+ Problems  
+- 🚀 [CodeChef](https://www.codechef.com/users/ankitsunil530) | 3★  
+- 🧠 [Codeforces](https://codeforces.com/profile/ankitsunil530)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/ankitsunil530)
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey)](#)
+
