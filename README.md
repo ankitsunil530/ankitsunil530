@@ -8,7 +8,7 @@
 - 🔭 Currently working on: Smart Footwear for Diabetic Foot Ulcers Detection  
 - 🌱 Learning advanced MERN, AI & Competitive Programming  
 - 💬 Ask me about MERN, ML, DSA, or Python  
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/your-link) | [Resume](#)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sunil-kumar-549595225/) | [Resume](#)
 
 ---
 
@@ -43,7 +43,7 @@
 
 ## 🧠 Competitive Programming
 
-- 💻 [LeetCode](https://leetcode.com/your-profile) | 400+ Problems  
+- 💻 [LeetCode](https://leetcode.com/ankitsunil530) | 50+ Problems  
 - 🚀 [CodeChef](https://www.codechef.com/users/ankitsunil530) | 3★  
 - 🧠 [Codeforces](https://codeforces.com/profile/ankitsunil530)
 
@@ -51,7 +51,7 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunil-kumar-549595225/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/ankitsunil530)
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey)](#)
 
