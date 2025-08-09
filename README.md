@@ -24,7 +24,10 @@
 | Project | Description | Links |
 |---------|-------------|-------|
 | 🔒 **Static Malware Detection** | ML-based malware classification using Random Forest, SVM | [GitHub Repo](https://github.com/ankitsunil530/Static-Malware-Detection-) |
-| ✅ **Task Management System** | MERN app for managing tasks with JWT Auth, admin dashboard | [GitHub Repo](#) · [Live Demo](#) |
+| ✅ **Task Management System** | MERN app for managing tasks with JWT Auth, admin dashboard | [GitHub Repo](https://github.com/ankitsunil530/Task-Management-System) |
+| 🏦 **Banking Website** | Responsive banking platform with account management & transactions | [GitHub Repo](https://github.com/ankitsunil530/Banking-Website) |
+| ⚡ **Fusion Client** | Modern client-side app with React & Tailwind | [GitHub Repo](https://github.com/ankitsunil530/Fusion-Client) |
+| 🎯 **FF Project** | Feature-rich full-stack application | [GitHub Repo](https://github.com/ankitsunil530/FF) |
 
 ---
 
