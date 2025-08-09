@@ -1,64 +1,49 @@
-<h1 align="center">👋 Hey, I'm Sunil Kumar</h1>
-<p align="center">
-🎓 <b>B.Tech CSE @ IIITDM Jabalpur</b>  
-💻 Full-Stack Developer | MERN Stack | ML Enthusiast  
-🚀 Passionate about building impactful applications & solving DSA problems
-</p>
+# 👋 Hi, I'm Sunil Kumar
+
+🎓 **B.Tech CSE @ IIITDM Jabalpur**  
+💻 **Full-Stack Developer | MERN Stack | ML Enthusiast**  
+🚀 Building real-world applications & solving DSA problems
 
 ---
 
 ## 💡 About Me
-
-| 🔭 Current Work | 🌱 Learning | 💬 Ask Me About | 📫 Reach Me |
-|-----------------|------------|----------------|-------------|
-| Smart Footwear for Diabetic Foot Ulcers Detection | Advanced MERN, AI & Competitive Programming | MERN, ML, DSA, Python | [LinkedIn](https://www.linkedin.com/in/sunil-kumar-549595225/) \| [Resume](https://docs.google.com/document/d/12K0DEdrbOKQlR_CPY16090AXu5Z7WstI/edit?usp=sharing&ouid=104633154786754293958&rtpof=true&sd=true) |
+| **Current Work** | **Learning** | **Ask Me About** | **Reach Me** |
+|------------------|--------------|------------------|--------------|
+| Smart Footwear for Diabetic Foot Ulcers Detection | Advanced MERN, AI & Competitive Programming | MERN, ML, DSA, Python | [LinkedIn](https://www.linkedin.com/in/sunil-kumar-549595225/) · [Resume](https://docs.google.com/document/d/12K0DEdrbOKQlR_CPY16090AXu5Z7WstI/edit?usp=sharing) |
 
 ---
 
 ## 🛠️ Tech Stack
-
-| **Category** | **Technologies** |
-|--------------|------------------|
-| **Languages** | JavaScript, C++, Python, Java |
-| **Frontend** | React.js, Tailwind CSS, HTML/CSS |
-| **Backend** | Node.js, Express.js, MongoDB |
-| **ML/AI** | TensorFlow, Scikit-learn, Keras, OpenCV |
-| **Tools** | Git, Docker, GCP, VS Code, Postman |
+| **Languages** | **Frontend** | **Backend** | **ML/AI** | **Tools** |
+|---------------|--------------|-------------|-----------|-----------|
+| JavaScript, C++, Python, Java | React.js, Tailwind CSS, HTML/CSS | Node.js, Express.js, MongoDB | TensorFlow, Scikit-learn, Keras, OpenCV | Git, Docker, GCP, VS Code, Postman |
 
 ---
 
 ## 📌 Featured Projects
-
 | Project | Description | Links |
 |---------|-------------|-------|
-| 🔒 **Static Malware Detection** | ML-based malware classification using Random Forest & SVM | [GitHub](https://github.com/ankitsunil530/Static-Malware-Detection-) |
-| ✅ **Task Management System** | MERN app for managing tasks with JWT Auth & admin dashboard | [GitHub](#) \| [Live Demo](#) |
+| 🔒 **Static Malware Detection** | ML-based malware classification using Random Forest, SVM | [GitHub Repo](https://github.com/ankitsunil530/Static-Malware-Detection-) |
+| ✅ **Task Management System** | MERN app for managing tasks with JWT Auth, admin dashboard | [GitHub Repo](#) · [Live Demo](#) |
 
 ---
 
 ## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ankitsunil530&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsunil530&theme=radical" alt="GitHub Streak" height="160"/>
-</p>
+| ![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitsunil530&show_icons=true&theme=radical) | ![GitHub Streak](https://streak-stats.demolab.com?user=ankitsunil530&theme=radical&v=1) |
+|---|---|
 
 ---
 
 ## 🧠 Competitive Programming
-
 | Platform | Profile | Highlights |
 |----------|---------|------------|
-| 💻 **LeetCode** | [Link](https://leetcode.com/ankitsunil530) | 50+ Problems |
-| 🚀 **CodeChef** | [Link](https://www.codechef.com/users/ankitsunil530) | 3★ |
-| 🧠 **Codeforces** | [Link](https://codeforces.com/profile/ankitsunil530) | Active |
+| **LeetCode** | [ankitsunil530](https://leetcode.com/ankitsunil530) | 50+ Problems |
+| **CodeChef** | [ankitsunil530](https://www.codechef.com/users/ankitsunil530) | 3★ |
+| **Codeforces** | [ankitsunil530](https://codeforces.com/profile/ankitsunil530) | Active Participant |
 
 ---
 
 ## 📫 Let's Connect
-
-<p align="center">
-<a href="https://www.linkedin.com/in/sunil-kumar-549595225/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/ankitsunil530"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-grey" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunil-kumar-549595225/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/ankitsunil530)
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey)](#)
