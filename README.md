@@ -1,6 +1,6 @@
 <!-- Full-width Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%" />
+  <img src="[https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" width="100%" />
 </p>
 
 <!-- Profile Views -->
@@ -102,5 +102,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sunil-kumar-549595225/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/ankitsunil530"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge"></a>
+  <a href="https://codolio.com/profile/ankitsunil530"><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge"></a>
 </p>
