@@ -1,6 +1,11 @@
-<!-- Banner -->
+<!-- Full-width Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%" />
+</p>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ankitsunil530&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Sunil Kumar</h1>
@@ -98,10 +103,4 @@
   <a href="https://www.linkedin.com/in/sunil-kumar-549595225/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/ankitsunil530"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge"></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankitsunil530&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
