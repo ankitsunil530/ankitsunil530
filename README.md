@@ -5,7 +5,9 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankitsunil530&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <a href="https://hits.sh/github.com/ankitsunil530/">
+    <img alt="Hits" src="https://hits.sh/github.com/ankitsunil530.svg?style=for-the-badge&label=PROFILE+VIEWS&color=blue"/>
+  </a>
 </p>
 
 <h1 align="center">👋 Hi, I'm Sunil Kumar</h1>
