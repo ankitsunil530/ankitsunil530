@@ -1,6 +1,6 @@
 <!-- Full-width Banner -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="70%" />
 </p>
 
 <!-- Profile Views -->
