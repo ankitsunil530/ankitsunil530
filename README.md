@@ -1,6 +1,6 @@
 <!-- Full-width Banner -->
 <p align="center">
-  <img src="[https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" width="100%" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
 </p>
 
 <!-- Profile Views -->
