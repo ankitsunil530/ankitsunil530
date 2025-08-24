@@ -1,62 +1,107 @@
-# 👋 Hi, I'm Sunil Kumar  
+<!-- Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
+</p>
 
-🎓 **B.Tech CSE @ IIITDM Jabalpur**  
-💻 **Full-Stack Developer | MERN Stack | ML Enthusiast**  
-🚀 Passionate about building real-world applications & solving DSA problems  
+<h1 align="center">👋 Hi, I'm Sunil Kumar</h1>
+<h3 align="center">🚀 Full-Stack Developer | MERN | ML Enthusiast | Problem Solver</h3>
 
 ---
 
-## 💡 About Me  
-| 🛠 **Current Work** | 📚 **Learning** | 💬 **Ask Me About** | 📫 **Reach Me** |
-|---------------------|----------------|--------------------|----------------|
-| Smart Footwear for Diabetic Foot Ulcers Detection | Advanced MERN, AI & Competitive Programming | MERN, ML, DSA, Python | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunil-kumar-549595225/) · [📄 Resume](https://docs.google.com/document/d/1t5f7t_lsk2vnnajbN8H2fts_qEvEaf0Y/edit?usp=sharing&ouid=104633154786754293958&rtpof=true&sd=true) |
+## ✨ About Me  
+<table>
+<tr>
+<td>
+
+- 🎓 B.Tech CSE @ **IIITDM Jabalpur**  
+- 💻 Passionate about **MERN Development & Machine Learning**  
+- 🚀 Love solving **DSA Problems** & building **real-world apps**  
+- 🌱 Currently learning **Advanced MERN & AI**  
+
+</td>
+<td>
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="220px">
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💼 Work Experience  
-| 🏷 **Role** | 🏢 **Organization / Type** | 📅 **Duration** | 📝 **Description** |
-|-------------|---------------------------|----------------|--------------------|
-| **Freelance Full-Stack Developer** | Faith and Fast (FF Project) | 2024 | Developed an **online clothing shopping platform** with product catalog, shopping cart, and secure payment gateway. Focused on responsive design and seamless UX. |
-| **Full Stack Developer (Academic)** | IIITDM Jabalpur | 2023 | Designed & implemented full-stack applications using MERN, covering authentication, database design, and deployment. |
-| **MERN Stack Developer (Academic)** | IIITDM Jabalpur | 2023 | Built multiple MERN-based CRUD applications, REST APIs, and real-time features using Socket.io. |
-| **ERP Portal Developer (Academic)** | IIITDM Jabalpur | 2023 | Developed **Fusion ERP Portal** for academic workflow management — integrated role-based access, data visualization, and streamlined user operations. |
+| 🏷 **Role** | 🏢 **Organization** | 📅 **Year** | ✨ **Description** |
+|-------------|--------------------|-------------|--------------------|
+| 👕 **Freelance Full-Stack Dev** | Faith & Fast | 2024 | Built an **E-Commerce Clothing Platform** with payment gateway & responsive design |
+| 🖥 **ERP Portal Developer** | IIITDM Jabalpur | 2023 | Developed **Fusion ERP Portal** with role-based access & dashboards |
+| ⚡ **MERN Stack Dev (Academic)** | IIITDM Jabalpur | 2023 | CRUD Apps, REST APIs & real-time features with **Socket.io** |
 
 ---
 
 ## 🛠 Tech Stack  
-| **Languages** | **Frontend** | **Backend** | **ML/AI** | **Tools** |
-|---------------|--------------|-------------|-----------|-----------|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,cpp,java,python,react,nodejs,express,mongodb,tailwind,html,css,git,postman,gcp,tensorflow,opencv" />
+</p>
 
 ---
 
 ## 📌 Featured Projects  
-| 🚀 **Project** | 📝 **Description** | 🔗 **Links** |
-|----------------|--------------------|--------------|
-| 🔒 **Static Malware Detection** | ML-based malware classification using Random Forest & SVM | [GitHub](https://github.com/ankitsunil530/Static-Malware-Detection-) |
-| ✅ **Task Management System** | MERN app with JWT Auth, role-based dashboard, and task tracking | [GitHub](https://github.com/ankitsunil530/Task-Management-System) |
-| 🏦 **Banking Website** | Responsive banking portal with account management & transactions | [GitHub](https://github.com/ankitsunil530/Banking-Website) |
-| ⚡ **Fusion Client** | Modern client app for ERP Portal using React & Tailwind CSS | [GitHub](https://github.com/ankitsunil530/Fusion-Client) |
-| 👕 **Faith and Fast** | Online **clothing e-commerce platform** with payment & cart features | [GitHub](https://github.com/ankitsunil530/FF) |
+<table>
+<tr>
+<td align="center">
+  <a href="https://github.com/ankitsunil530/Static-Malware-Detection-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitsunil530&repo=Static-Malware-Detection-&theme=radical" />
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/ankitsunil530/Task-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitsunil530&repo=Task-Management-System&theme=radical" />
+  </a>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/ankitsunil530/Banking-Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitsunil530&repo=Banking-Website&theme=radical" />
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/ankitsunil530/FF">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitsunil530&repo=FF&theme=radical" />
+  </a>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📈 GitHub Stats  
-| ![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitsunil530&show_icons=true&theme=radical) | ![GitHub Streak](https://streak-stats.demolab.com?user=ankitsunil530&theme=radical&v=1) |
-|---|---|
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitsunil530&show_icons=true&theme=radical" height="150" />
+  <img src="https://streak-stats.demolab.com?user=ankitsunil530&theme=radical&date_format=M%20j%5B,%20Y%5D" height="150" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitsunil530&theme=react-dark&hide_border=true" />
+</p>
 
 ---
 
 ## 🧠 Competitive Programming  
-| Platform | Profile | Highlights |
-|----------|---------|------------|
-| **LeetCode** | [ankitsunil530](https://leetcode.com/ankitsunil530) | 50+ Problems |
-| **CodeChef** | [ankitsunil530](https://www.codechef.com/users/ankitsunil530) | 3★ |
-| **Codeforces** | [ankitsunil530](https://codeforces.com/profile/ankitsunil530) | Active Participant |
+<p align="center">
+  <a href="https://leetcode.com/ankitsunil530/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+  <a href="https://www.codechef.com/users/ankitsunil530"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"></a>
+  <a href="https://codeforces.com/profile/ankitsunil530"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
+</p>
 
 ---
 
 ## 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunil-kumar-549595225/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/ankitsunil530)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey)](#)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sunil-kumar-549595225/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/ankitsunil530"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ankitsunil530&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
