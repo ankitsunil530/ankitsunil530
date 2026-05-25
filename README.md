@@ -1,14 +1,15 @@
-<!-- ======================= PREMIUM GITHUB README ======================= -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,50:1D4ED8,100:7C3AED&text=&fontSize=0"/>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"/> Hello, I'm Sunil Kumar
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> Hello, I'm Sunil Kumar
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+MERN+Developer;🤖+AI+%26+Machine+Learning+Engineer;💻+Competitive+Programmer;⚡+Building+Scalable+Applications;🌟+Open+Source+Contributor;🔥+800%2B+DSA+Problems+Solved" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=🚀+Full+Stack+MERN+Developer;🤖+AI+%26+Machine+Learning+Engineer;💻+Competitive+Programmer;⚡+Building+Scalable+Applications;🔥+800%2B+DSA+Problems+Solved" />
 
 <br/>
+
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20SDE%20Roles-success?style=for-the-badge" />
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=ankitsunil530&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 
@@ -22,15 +23,15 @@
 
 # 💫 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
 
 🎓 B.Tech CSE Student at **IIITDM Jabalpur**  
 
-🚀 Full Stack Developer focused on **MERN Stack & AI Applications**  
+🚀 Full Stack Developer specialized in **MERN Stack Development**  
 
-🤖 Building AI-powered systems using **TensorFlow, CNN & NLP**  
+🤖 AI/ML Enthusiast working with **TensorFlow, CNN & NLP**  
 
-💡 Passionate about solving real-world problems with scalable solutions  
+💡 Passionate about building scalable real-world applications  
 
 🧠 Solved **800+ DSA Problems** across coding platforms  
 
@@ -75,11 +76,10 @@
 
 <div align="center">
 
-| 💼 Project | ⚙️ Tech Stack | 🔗 GitHub | 🌐 Live Demo |
+| 💼 Project | ⚙️ Tech Stack | 🔗 GitHub Repository | 🌐 Live Demo |
 |---|---|---|---|
-| 👕 Faith & Fast E-Commerce Platform | MERN, Razorpay, JWT | [Repository](https://github.com/ankitsunil530/FF) | Coming Soon |
-| 🏦 Banking Website | React, Tailwind CSS | [Repository](https://github.com/ankitsunil530/Banking-Website) | Coming Soon |
-| 🍕 Pizza Customization App | MERN, Redux Toolkit | Private Repo | Coming Soon |
+| 👕 Faith & Fast E-Commerce | MERN, JWT, Razorpay | [GitHub](https://github.com/ankitsunil530/FF) | [Live](https://ff-frontend.vercel.app/) |
+| 🍕 Pizza Customization Web App | MERN, Redux Toolkit | [GitHub](https://github.com/ankitsunil530/Pizza-Customization-Web-App) | [Live](https://pizza-customization-web-app.vercel.app/) |
 
 </div>
 
@@ -89,11 +89,11 @@
 
 <div align="center">
 
-| 🧠 Project | ⚙️ Technologies | 🔗 GitHub | 🌐 Live Demo |
+| 🧠 Project | ⚙️ Technologies | 🔗 GitHub Repository | 🌐 Live Demo |
 |---|---|---|---|
-| 🩸 Blood Cell Classification | CNN, TensorFlow, Python | Coming Soon | Coming Soon |
-| 🦶 Diabetic Foot Ulcer Detection | CNN, TensorFlow | Coming Soon | Coming Soon |
-| 🛡️ Static Malware Detection | ML, Scikit-Learn | [Repository](https://github.com/ankitsunil530/Static-Malware-Detection-) | Coming Soon |
+| 🩸 Blood Cell Classification | CNN, TensorFlow, Python | [GitHub](https://github.com/ankitsunil530/blood-cell-classification) | [Live](https://blood-cell-classification.streamlit.app/) |
+| 🌱 AI Cancer & Plant Disease Detection | CNN, React, Flask | [GitHub](https://github.com/ankitsunil530/AI-Cancer-and-Plant-Disease-Detection) | [Live](https://ai-cancer-and-plant-disease-detection.vercel.app/) |
+| 🛡️ Static Malware Detection | ML, Scikit-Learn | [GitHub](https://github.com/ankitsunil530/Static-Malware-Detection-) | [Live](https://static-malware-detection.streamlit.app/) |
 
 </div>
 
@@ -103,11 +103,12 @@
 
 <div align="center">
 
-| 🚀 Project | ⚙️ Technologies | 🔗 GitHub | 🌐 Live Demo |
+| 🚀 Project | ⚙️ Technologies | 🔗 GitHub Repository | 🌐 Live Demo |
 |---|---|---|---|
-| 📋 Task Management System | MERN, Redux Toolkit | [Repository](https://github.com/ankitsunil530/Task-Management-System) | Coming Soon |
-| 🏫 Fusion ERP Portal | React.js, REST APIs | Private Repo | Internal Project |
-| 🌦️ Weather Knowing System | HTML, CSS, JavaScript | Coming Soon | Coming Soon |
+| 📋 Task Management System | MERN, Redux Toolkit | [GitHub](https://github.com/ankitsunil530/Task-Management-System) | [Live](https://task-management-system-tawny-eta.vercel.app/) |
+| 🏦 Banking Website | React.js, Tailwind CSS | [GitHub](https://github.com/ankitsunil530/Banking-Website) | [Live](https://banking-website-gamma.vercel.app/) |
+| 🌦️ Weather Knowing System | HTML, CSS, JavaScript | [GitHub](https://github.com/ankitsunil530/Weather-Knowing-System) | [Live](https://weather-knowing-system.vercel.app/) |
+| 🧠 Fuzzy Logic Diabetes Diagnosis System | Python, Fuzzy Logic | [GitHub](https://github.com/ankitsunil530/Fuzzy-Project) | [Live](https://fuzzy-project.streamlit.app/) |
 
 </div>
 
@@ -144,15 +145,15 @@
 <br/><br/>
 
 <a href="https://leetcode.com/ankitsunil530/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://www.codechef.com/users/ankitsunil530">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 <a href="https://codeforces.com/profile/ankitsunil530">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 </div>
@@ -165,13 +166,13 @@
 
 🥇 Solved **800+ DSA Problems** across coding platforms  
 
-🚀 Built scalable MERN stack applications with authentication & APIs  
+🚀 Developed scalable MERN stack applications with authentication & APIs  
 
-🤖 Developed AI/ML systems for medical image classification  
+🤖 Built AI/ML systems for medical image classification & healthcare prediction  
 
 ⚡ Open Source Contributor – **GirlScript Summer of Code 2024**  
 
-💡 Experience in Full Stack Development, AI & System Design  
+💡 Experience with REST APIs, Deployment & Full Stack Architecture  
 
 </div>
 
@@ -194,39 +195,32 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sunil-kumar-549595225/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ankitsunil530">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://codolio.com/profile/ankitsunil530">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
 <a href="mailto:ankitsunil530@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 📄 Resume
-
 <div align="center">
 
-📌 Based on experience & projects from resume :contentReference[oaicite:0]{index=0}
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ “Code • Build • Learn • Repeat” ⚡
+## ⚡ Code • Build • Learn • Repeat ⚡
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F172A,50:1D4ED8,100:7C3AED"/>
 
 </div>
+
+<!-- Resume based updates from uploaded resume -->
+<!-- :contentReference[oaicite:0]{index=0} -->
