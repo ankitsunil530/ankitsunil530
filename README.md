@@ -1,13 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Sunil%20Kumar&fontAlign=50&fontAlignY=35&color=0:0F172A,40:1D4ED8,100:7C3AED&fontColor=ffffff&desc=Full%20Stack%20MERN%20Developer%20%7C%20AI%2FML%20Engineer&descAlign=50&descAlignY=58" />
+# Sunil Kumar
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=100&lines=Building+Scalable+Web+Applications;MERN+Stack+%7C+AI%2FML+Projects;800%2B+DSA+Problems+Solved" />
-
-<img src="https://komarev.com/ghpvc/?username=ankitsunil530&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20SDE%20Roles-success?style=for-the-badge" />
-
-<br/>
+**Full Stack (MERN) Developer | AI/ML Enthusiast**  
+B.Tech CSE, PDPM IIITDM Jabalpur (2022–2026)
 
 <a href="https://www.linkedin.com/in/sunil-kumar-549595225/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/ankitsunil530"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -70,7 +66,5 @@
 <div align="center">
 
 ### Open to internships and full-time SDE opportunities.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,40:1D4ED8,100:7C3AED" />
 
 </div>
