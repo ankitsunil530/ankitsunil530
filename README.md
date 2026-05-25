@@ -1,14 +1,14 @@
-<!-- ========================= PREMIUM GITHUB PROFILE README ========================= -->
+<!-- ======================= PREMIUM GITHUB README ======================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0B1026,50:1E3A8A,100:7C3AED&text=Sunil%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,50:1D4ED8,100:7C3AED&text=&fontSize=0"/>
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> Hello, I'm Sunil Kumar
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+MERN+Developer;🤖+AI+%26+Machine+Learning+Engineer;💻+Competitive+Programmer;⚡+Building+Scalable+Applications;🌟+Open+Source+Contributor;🔥+800%2B+DSA+Problems+Solved" />
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+MERN+Developer;🤖+AI+%26+Machine+Learning+Enthusiast;💻+Competitive+Programmer;⚡+Building+Real+World+Applications;🌟+Open+Source+Learner" />
-
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=ankitsunil530&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 
@@ -22,23 +22,25 @@
 
 # 💫 About Me
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 🎓 B.Tech CSE Student at **IIITDM Jabalpur**  
 
-💻 Passionate about **Full Stack Web Development & AI/ML**  
+🚀 Full Stack Developer focused on **MERN Stack & AI Applications**  
 
-🚀 Building scalable and real-world applications using the **MERN Stack**  
+🤖 Building AI-powered systems using **TensorFlow, CNN & NLP**  
 
-🧠 Solving DSA problems on **LeetCode, CodeChef & Codeforces**  
+💡 Passionate about solving real-world problems with scalable solutions  
 
-🌱 Currently learning **Advanced MERN, AI & System Design**  
+🧠 Solved **800+ DSA Problems** across coding platforms  
 
-⚡ Love building impactful products and exploring technologies  
+⚡ Open Source Contributor & Tech Explorer  
+
+📍 Lucknow, Uttar Pradesh  
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
@@ -53,43 +55,59 @@
 <br/><br/>
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" />
+
+<br/><br/>
+
+### 🤖 AI / Machine Learning
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
 
 <br/><br/>
 
 ### ☁️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,gcp" />
-
-<br/><br/>
-
-### 🤖 AI / ML
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,gcp,vscode" />
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Freelancing Projects
 
 <div align="center">
 
-<a href="https://github.com/ankitsunil530/Task-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitsunil530&repo=Task-Management-System&theme=tokyonight&hide_border=true" />
-</a>
+| 💼 Project | ⚙️ Tech Stack | 🔗 GitHub | 🌐 Live Demo |
+|---|---|---|---|
+| 👕 Faith & Fast E-Commerce Platform | MERN, Razorpay, JWT | [Repository](https://github.com/ankitsunil530/FF) | Coming Soon |
+| 🏦 Banking Website | React, Tailwind CSS | [Repository](https://github.com/ankitsunil530/Banking-Website) | Coming Soon |
+| 🍕 Pizza Customization App | MERN, Redux Toolkit | Private Repo | Coming Soon |
 
-<a href="https://github.com/ankitsunil530/Static-Malware-Detection-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitsunil530&repo=Static-Malware-Detection-&theme=tokyonight&hide_border=true" />
-</a>
+</div>
 
-<br/><br/>
+---
 
-<a href="https://github.com/ankitsunil530/Banking-Website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitsunil530&repo=Banking-Website&theme=tokyonight&hide_border=true" />
-</a>
+# 🤖 AI / ML Projects
 
-<a href="https://github.com/ankitsunil530/FF">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitsunil530&repo=FF&theme=tokyonight&hide_border=true" />
-</a>
+<div align="center">
+
+| 🧠 Project | ⚙️ Technologies | 🔗 GitHub | 🌐 Live Demo |
+|---|---|---|---|
+| 🩸 Blood Cell Classification | CNN, TensorFlow, Python | Coming Soon | Coming Soon |
+| 🦶 Diabetic Foot Ulcer Detection | CNN, TensorFlow | Coming Soon | Coming Soon |
+| 🛡️ Static Malware Detection | ML, Scikit-Learn | [Repository](https://github.com/ankitsunil530/Static-Malware-Detection-) | Coming Soon |
+
+</div>
+
+---
+
+# 💻 Academic / Full Stack Projects
+
+<div align="center">
+
+| 🚀 Project | ⚙️ Technologies | 🔗 GitHub | 🌐 Live Demo |
+|---|---|---|---|
+| 📋 Task Management System | MERN, Redux Toolkit | [Repository](https://github.com/ankitsunil530/Task-Management-System) | Coming Soon |
+| 🏫 Fusion ERP Portal | React.js, REST APIs | Private Repo | Internal Project |
+| 🌦️ Weather Knowing System | HTML, CSS, JavaScript | Coming Soon | Coming Soon |
 
 </div>
 
@@ -115,39 +133,15 @@
 
 ---
 
-# 💻 Coding Profiles
+# 🧠 Competitive Programming
 
 <div align="center">
 
 <a href="https://leetcode.com/ankitsunil530/">
-  <img src="https://leetcard.jacoblin.cool/ankitsunil530?theme=dark&font=Poppins&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/ankitsunil530?theme=dark&font=Poppins&ext=contest"/>
 </a>
 
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-🥇 Solved **500+ DSA Problems** across coding platforms  
-
-🚀 Built multiple **Full Stack MERN Applications**  
-
-🤖 Worked on **Machine Learning & Malware Detection Projects**  
-
-⚡ Active participant in coding contests & hackathons  
-
-💡 Experience with REST APIs, Authentication & Deployment  
-
-</div>
-
----
-
-# 🧠 Competitive Programming
-
-<div align="center">
+<br/><br/>
 
 <a href="https://leetcode.com/ankitsunil530/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
@@ -160,6 +154,36 @@
 <a href="https://codeforces.com/profile/ankitsunil530">
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+🥇 Solved **800+ DSA Problems** across coding platforms  
+
+🚀 Built scalable MERN stack applications with authentication & APIs  
+
+🤖 Developed AI/ML systems for medical image classification  
+
+⚡ Open Source Contributor – **GirlScript Summer of Code 2024**  
+
+💡 Experience in Full Stack Development, AI & System Design  
+
+</div>
+
+---
+
+# 📚 Education
+
+<div align="center">
+
+🎓 **B.Tech in Computer Science & Engineering**  
+🏫 PDPM IIITDM Jabalpur  
+📅 2022 – 2026  
 
 </div>
 
@@ -181,6 +205,20 @@
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
+<a href="mailto:ankitsunil530@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 📄 Resume
+
+<div align="center">
+
+📌 Based on experience & projects from resume :contentReference[oaicite:0]{index=0}
+
 </div>
 
 ---
@@ -189,6 +227,6 @@
 
 ## ⚡ “Code • Build • Learn • Repeat” ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B1026,50:1E3A8A,100:7C3AED"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F172A,50:1D4ED8,100:7C3AED"/>
 
 </div>
