@@ -2,16 +2,18 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Sunil%20Kumar&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff&color=0:0F172A,50:2563EB,100:7C3AED&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20AI%20Engineer&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Sunil%20Kumar&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=ffffff&color=0:0F172A,50:2563EB,100:7C3AED&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20AI%20Engineer&descAlignY=60&descSize=20"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=34&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=1100&lines=👋+Hello,+I'm+Sunil+Kumar;🚀+Full+Stack+MERN+Developer;🤖+AI+%26+Machine+Learning+Engineer;💻+Competitive+Programmer;⚡+Building+Scalable+Applications;🔥+800%2B+DSA+Problems+Solved" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1100&lines=👋+Hello+World!;I'm+Sunil+Kumar;🚀+Full+Stack+MERN+Developer;🤖+AI+%26+Machine+Learning+Engineer;💻+Competitive+Programmer;⚡+Building+Scalable+Applications;🔥+800%2B+DSA+Problems+Solved" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-blueviolet?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20SDE%20Roles-success?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-0ea5e9?style=for-the-badge"/>
 
 <br/><br/>
@@ -28,7 +30,7 @@
 
 # 💫 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
 
 🎓 B.Tech CSE Student at **IIITDM Jabalpur**  
 
