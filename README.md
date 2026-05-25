@@ -1,20 +1,20 @@
-<!-- ========================= DYNAMIC HEADER ========================= -->
+<!-- ========================= PREMIUM GITHUB PROFILE README ========================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0B1026,50:1E3A8A,100:7C3AED&text=Sunil%20Kumar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI%20Enthusiast&descAlignY=56&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0B1026,50:1E3A8A,100:7C3AED&text=Sunil%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=20"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Sunil+Kumar;Full+Stack+MERN+Developer;AI+%26+Machine+Learning+Enthusiast;Competitive+Programmer;Building+Scalable+Web+Applications;Open+Source+Learner+%26+Tech+Explorer" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+MERN+Developer;🤖+AI+%26+Machine+Learning+Enthusiast;💻+Competitive+Programmer;⚡+Building+Real+World+Applications;🌟+Open+Source+Learner" />
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ankitsunil530&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ankitsunil530&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/ankitsunil530?style=for-the-badge&logo=github&color=7c3aed" />
+<img src="https://img.shields.io/github/followers/ankitsunil530?style=for-the-badge&logo=github&color=7c3aed"/>
 
-<img src="https://img.shields.io/github/stars/ankitsunil530?style=for-the-badge&logo=github&color=f59e0b" />
+<img src="https://img.shields.io/github/stars/ankitsunil530?style=for-the-badge&logo=github&color=f59e0b"/>
 
 </div>
 
@@ -22,7 +22,7 @@
 
 # 💫 About Me
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 🎓 B.Tech CSE Student at **IIITDM Jabalpur**  
 
@@ -34,7 +34,7 @@
 
 🌱 Currently learning **Advanced MERN, AI & System Design**  
 
-⚡ Love creating impactful products and exploring new technologies  
+⚡ Love building impactful products and exploring technologies  
 
 ---
 
@@ -45,14 +45,22 @@
 ### 👨‍💻 Languages
 <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript" />
 
-### 🌐 Frontend Development
+<br/><br/>
+
+### 🌐 Frontend
 <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,bootstrap" />
 
-### ⚙️ Backend Development
+<br/><br/>
+
+### ⚙️ Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
+<br/><br/>
 
 ### ☁️ Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,gcp" />
+
+<br/><br/>
 
 ### 🤖 AI / ML
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
@@ -66,34 +74,34 @@
 <div align="center">
 
 <a href="https://github.com/ankitsunil530/Task-Management-System">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ankitsunil530&repo=Task-Management-System&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitsunil530&repo=Task-Management-System&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/ankitsunil530/Static-Malware-Detection-">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ankitsunil530&repo=Static-Malware-Detection-&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitsunil530&repo=Static-Malware-Detection-&theme=tokyonight&hide_border=true" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/ankitsunil530/Banking-Website">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ankitsunil530&repo=Banking-Website&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitsunil530&repo=Banking-Website&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/ankitsunil530/FF">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ankitsunil530&repo=FF&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitsunil530&repo=FF&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankitsunil530&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankitsunil530&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsunil530&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsunil530&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -101,7 +109,19 @@
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ankitsunil530&theme=tokyo-night&hide_border=true&area=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ankitsunil530&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/ankitsunil530/">
+  <img src="https://leetcard.jacoblin.cool/ankitsunil530?theme=dark&font=Poppins&ext=contest"/>
+</a>
 
 </div>
 
@@ -167,8 +187,8 @@
 
 <div align="center">
 
-### ⚡ “Code • Build • Learn • Repeat” ⚡
+## ⚡ “Code • Build • Learn • Repeat” ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B1026,50:1E3A8A,100:7C3AED" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B1026,50:1E3A8A,100:7C3AED"/>
 
 </div>
