@@ -2,15 +2,17 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,50:1D4ED8,100:7C3AED&text=&fontSize=0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Sunil%20Kumar&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff&color=0:0F172A,50:2563EB,100:7C3AED&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20AI%20Engineer&descAlignY=58&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&repeat=true&width=1200&height=90&lines=👋+Hello,+I'm+Sunil+Kumar;🚀+Full+Stack+MERN+Developer;🤖+AI+%26+Machine+Learning+Engineer;💻+Competitive+Programmer;⚡+Building+Scalable+Applications;🔥+800%2B+DSA+Problems+Solved" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=34&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=1100&lines=👋+Hello,+I'm+Sunil+Kumar;🚀+Full+Stack+MERN+Developer;🤖+AI+%26+Machine+Learning+Engineer;💻+Competitive+Programmer;⚡+Building+Scalable+Applications;🔥+800%2B+DSA+Problems+Solved" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-blueviolet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20SDE%20Roles-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-0ea5e9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20SDE%20Roles-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-0ea5e9?style=for-the-badge"/>
 
 <br/><br/>
 
@@ -26,7 +28,7 @@
 
 # 💫 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 🎓 B.Tech CSE Student at **IIITDM Jabalpur**  
 
@@ -49,27 +51,27 @@
 <div align="center">
 
 ### 👨‍💻 Languages
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript" />
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript"/>
 
 <br/><br/>
 
 ### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,bootstrap"/>
 
 <br/><br/>
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql"/>
 
 <br/><br/>
 
 ### 🤖 AI / Machine Learning
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv"/>
 
 <br/><br/>
 
 ### ☁️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,gcp,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,gcp,vscode"/>
 
 </div>
 
@@ -81,8 +83,8 @@
 
 | 💼 Project | ⚙️ Tech Stack | 🔗 Repository | 🌐 Live Demo |
 |---|---|---|---|
-| 👕 Faith & Fast E-Commerce | MERN, JWT, Razorpay | [GitHub](https://github.com/ankitsunil530/FF) | [Live Demo](https://ff-frontend.vercel.app/) |
-| 🍕 Pizza Customization Web App | MERN, Redux Toolkit | [GitHub](https://github.com/ankitsunil530/Pizza-Customization-Web-App) | [Live Demo](https://pizza-customization-web-app.vercel.app/) |
+| 👕 Faith & Fast E-Commerce | MERN, JWT, Razorpay | [GitHub](https://github.com/ankitsunil530/FF) | [Live](https://ff-frontend.vercel.app/) |
+| 🍕 Pizza Customization Web App | MERN, Redux Toolkit | [GitHub](https://github.com/ankitsunil530/Pizza-Customization-Web-App) | [Live](https://pizza-customization-web-app.vercel.app/) |
 
 </div>
 
@@ -94,10 +96,10 @@
 
 | 🧠 Project | ⚙️ Technologies | 🔗 Repository | 🌐 Live Demo |
 |---|---|---|---|
-| 🩸 Blood Cell Classification | CNN, TensorFlow, Python | [GitHub](https://github.com/ankitsunil530/blood-cell-classification) | [Live Demo](https://blood-cell-classification.streamlit.app/) |
-| 🌱 AI Cancer & Plant Disease Detection | CNN, React, Flask | [GitHub](https://github.com/ankitsunil530/AI-Cancer-and-Plant-Disease-Detection) | [Live Demo](https://ai-cancer-and-plant-disease-detection.vercel.app/) |
-| 🛡️ Static Malware Detection | ML, Scikit-Learn | [GitHub](https://github.com/ankitsunil530/Static-Malware-Detection-) | [Live Demo](https://static-malware-detection.streamlit.app/) |
-| 🧠 Fuzzy Logic Diabetes Diagnosis | Python, Fuzzy Logic | [GitHub](https://github.com/ankitsunil530/Fuzzy-Project) | [Live Demo](https://fuzzy-project.streamlit.app/) |
+| 🩸 Blood Cell Classification | CNN, TensorFlow, Python | [GitHub](https://github.com/ankitsunil530/blood-cell-classification) | [Live](https://blood-cell-classification.streamlit.app/) |
+| 🌱 AI Cancer & Plant Disease Detection | CNN, React, Flask | [GitHub](https://github.com/ankitsunil530/AI-Cancer-and-Plant-Disease-Detection) | [Live](https://ai-cancer-and-plant-disease-detection.vercel.app/) |
+| 🛡️ Static Malware Detection | ML, Scikit-Learn | [GitHub](https://github.com/ankitsunil530/Static-Malware-Detection-) | [Live](https://static-malware-detection.streamlit.app/) |
+| 🧠 Fuzzy Logic Diabetes Diagnosis | Python, Fuzzy Logic | [GitHub](https://github.com/ankitsunil530/Fuzzy-Project) | [Live](https://fuzzy-project.streamlit.app/) |
 
 </div>
 
@@ -109,10 +111,10 @@
 
 | 🚀 Project | ⚙️ Technologies | 🔗 Repository | 🌐 Live Demo |
 |---|---|---|---|
-| 📋 Task Management System | MERN, Redux Toolkit | [GitHub](https://github.com/ankitsunil530/Task-Management-System) | [Live Demo](https://task-management-system-tawny-eta.vercel.app/) |
-| 🏦 Banking Website | React.js, Tailwind CSS | [GitHub](https://github.com/ankitsunil530/Banking-Website) | [Live Demo](https://banking-website-gamma.vercel.app/) |
-| 🌦️ Weather Knowing System | HTML, CSS, JavaScript | [GitHub](https://github.com/ankitsunil530/Weather-Knowing-System) | [Live Demo](https://weather-knowing-system.vercel.app/) |
-| 🏫 Fusion ERP Portal | React.js, REST APIs | [GitHub](https://github.com/ankitsunil530/Fusion-ERP-Portal) | [Live Demo](https://fusion-erp-portal.vercel.app/) |
+| 📋 Task Management System | MERN, Redux Toolkit | [GitHub](https://github.com/ankitsunil530/Task-Management-System) | [Live](https://task-management-system-tawny-eta.vercel.app/) |
+| 🏦 Banking Website | React.js, Tailwind CSS | [GitHub](https://github.com/ankitsunil530/Banking-Website) | [Live](https://banking-website-gamma.vercel.app/) |
+| 🌦️ Weather Knowing System | HTML, CSS, JavaScript | [GitHub](https://github.com/ankitsunil530/Weather-Knowing-System) | [Live](https://weather-knowing-system.vercel.app/) |
+| 🏫 Fusion ERP Portal | React.js, REST APIs | [GitHub](https://github.com/ankitsunil530/Fusion-ERP-Portal) | [Live](https://fusion-erp-portal.vercel.app/) |
 
 </div>
 
@@ -222,6 +224,6 @@
 
 ## ⚡ Code • Build • Learn • Repeat ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F172A,50:1D4ED8,100:7C3AED"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F172A,50:2563EB,100:7C3AED"/>
 
 </div>
