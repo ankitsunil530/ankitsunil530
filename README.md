@@ -1,13 +1,16 @@
+<!-- ======================= PREMIUM GITHUB PROFILE README ======================= -->
+
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"/> Hello, I'm Sunil Kumar
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,50:1D4ED8,100:7C3AED&text=&fontSize=0"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=🚀+Full+Stack+MERN+Developer;🤖+AI+%26+Machine+Learning+Engineer;💻+Competitive+Programmer;⚡+Building+Scalable+Applications;🔥+800%2B+DSA+Problems+Solved" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&repeat=true&width=1200&height=90&lines=👋+Hello,+I'm+Sunil+Kumar;🚀+Full+Stack+MERN+Developer;🤖+AI+%26+Machine+Learning+Engineer;💻+Competitive+Programmer;⚡+Building+Scalable+Applications;🔥+800%2B+DSA+Problems+Solved" />
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-blueviolet?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20SDE%20Roles-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-0ea5e9?style=for-the-badge" />
 
 <br/><br/>
 
@@ -76,10 +79,10 @@
 
 <div align="center">
 
-| 💼 Project | ⚙️ Tech Stack | 🔗 GitHub Repository | 🌐 Live Demo |
+| 💼 Project | ⚙️ Tech Stack | 🔗 Repository | 🌐 Live Demo |
 |---|---|---|---|
-| 👕 Faith & Fast E-Commerce | MERN, JWT, Razorpay | [GitHub](https://github.com/ankitsunil530/FF) | [Live](https://ff-frontend.vercel.app/) |
-| 🍕 Pizza Customization Web App | MERN, Redux Toolkit | [GitHub](https://github.com/ankitsunil530/Pizza-Customization-Web-App) | [Live](https://pizza-customization-web-app.vercel.app/) |
+| 👕 Faith & Fast E-Commerce | MERN, JWT, Razorpay | [GitHub](https://github.com/ankitsunil530/FF) | [Live Demo](https://ff-frontend.vercel.app/) |
+| 🍕 Pizza Customization Web App | MERN, Redux Toolkit | [GitHub](https://github.com/ankitsunil530/Pizza-Customization-Web-App) | [Live Demo](https://pizza-customization-web-app.vercel.app/) |
 
 </div>
 
@@ -89,26 +92,27 @@
 
 <div align="center">
 
-| 🧠 Project | ⚙️ Technologies | 🔗 GitHub Repository | 🌐 Live Demo |
+| 🧠 Project | ⚙️ Technologies | 🔗 Repository | 🌐 Live Demo |
 |---|---|---|---|
-| 🩸 Blood Cell Classification | CNN, TensorFlow, Python | [GitHub](https://github.com/ankitsunil530/blood-cell-classification) | [Live](https://blood-cell-classification.streamlit.app/) |
-| 🌱 AI Cancer & Plant Disease Detection | CNN, React, Flask | [GitHub](https://github.com/ankitsunil530/AI-Cancer-and-Plant-Disease-Detection) | [Live](https://ai-cancer-and-plant-disease-detection.vercel.app/) |
-| 🛡️ Static Malware Detection | ML, Scikit-Learn | [GitHub](https://github.com/ankitsunil530/Static-Malware-Detection-) | [Live](https://static-malware-detection.streamlit.app/) |
+| 🩸 Blood Cell Classification | CNN, TensorFlow, Python | [GitHub](https://github.com/ankitsunil530/blood-cell-classification) | [Live Demo](https://blood-cell-classification.streamlit.app/) |
+| 🌱 AI Cancer & Plant Disease Detection | CNN, React, Flask | [GitHub](https://github.com/ankitsunil530/AI-Cancer-and-Plant-Disease-Detection) | [Live Demo](https://ai-cancer-and-plant-disease-detection.vercel.app/) |
+| 🛡️ Static Malware Detection | ML, Scikit-Learn | [GitHub](https://github.com/ankitsunil530/Static-Malware-Detection-) | [Live Demo](https://static-malware-detection.streamlit.app/) |
+| 🧠 Fuzzy Logic Diabetes Diagnosis | Python, Fuzzy Logic | [GitHub](https://github.com/ankitsunil530/Fuzzy-Project) | [Live Demo](https://fuzzy-project.streamlit.app/) |
 
 </div>
 
 ---
 
-# 💻 Academic / Full Stack Projects
+# 💻 Full Stack / Academic Projects
 
 <div align="center">
 
-| 🚀 Project | ⚙️ Technologies | 🔗 GitHub Repository | 🌐 Live Demo |
+| 🚀 Project | ⚙️ Technologies | 🔗 Repository | 🌐 Live Demo |
 |---|---|---|---|
-| 📋 Task Management System | MERN, Redux Toolkit | [GitHub](https://github.com/ankitsunil530/Task-Management-System) | [Live](https://task-management-system-tawny-eta.vercel.app/) |
-| 🏦 Banking Website | React.js, Tailwind CSS | [GitHub](https://github.com/ankitsunil530/Banking-Website) | [Live](https://banking-website-gamma.vercel.app/) |
-| 🌦️ Weather Knowing System | HTML, CSS, JavaScript | [GitHub](https://github.com/ankitsunil530/Weather-Knowing-System) | [Live](https://weather-knowing-system.vercel.app/) |
-| 🧠 Fuzzy Logic Diabetes Diagnosis System | Python, Fuzzy Logic | [GitHub](https://github.com/ankitsunil530/Fuzzy-Project) | [Live](https://fuzzy-project.streamlit.app/) |
+| 📋 Task Management System | MERN, Redux Toolkit | [GitHub](https://github.com/ankitsunil530/Task-Management-System) | [Live Demo](https://task-management-system-tawny-eta.vercel.app/) |
+| 🏦 Banking Website | React.js, Tailwind CSS | [GitHub](https://github.com/ankitsunil530/Banking-Website) | [Live Demo](https://banking-website-gamma.vercel.app/) |
+| 🌦️ Weather Knowing System | HTML, CSS, JavaScript | [GitHub](https://github.com/ankitsunil530/Weather-Knowing-System) | [Live Demo](https://weather-knowing-system.vercel.app/) |
+| 🏫 Fusion ERP Portal | React.js, REST APIs | [GitHub](https://github.com/ankitsunil530/Fusion-ERP-Portal) | [Live Demo](https://fusion-erp-portal.vercel.app/) |
 
 </div>
 
@@ -166,9 +170,9 @@
 
 🥇 Solved **800+ DSA Problems** across coding platforms  
 
-🚀 Developed scalable MERN stack applications with authentication & APIs  
+🚀 Built scalable MERN stack applications with authentication & APIs  
 
-🤖 Built AI/ML systems for medical image classification & healthcare prediction  
+🤖 Developed AI/ML systems for medical image classification & healthcare prediction  
 
 ⚡ Open Source Contributor – **GirlScript Summer of Code 2024**  
 
@@ -221,6 +225,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F172A,50:1D4ED8,100:7C3AED"/>
 
 </div>
-
-<!-- Resume based updates from uploaded resume -->
-<!-- :contentReference[oaicite:0]{index=0} -->
