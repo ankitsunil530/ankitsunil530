@@ -1,9 +1,4 @@
 <!-- ======================= PREMIUM GITHUB PROFILE README ======================= -->
-### My ELUSOC 2026 Admin Badges!
-
-<a href="https://edulinkup.dev/elusoc/profile/ankitsunil530">
-
-</a>
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Sunil%20Kumar&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=ffffff&color=0:0F172A,50:2563EB,100:7C3AED&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20AI%20Engineer&descAlignY=60&descSize=20"/>
